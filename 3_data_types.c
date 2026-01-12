@@ -8,6 +8,9 @@ int main(){
     double (8 bytes) | %lf for printing
     float (4 bytes) | %f for printing
     char (1 byte) | %c for printing
+
+    %d, %lf, %f, %c are format specifiers used in printf to specify the type of data being printed
+    
     */
 
     // TODO: Find out more about the stuffs used for printing (%c, %d, etc)
