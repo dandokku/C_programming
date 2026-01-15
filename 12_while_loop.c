@@ -19,7 +19,7 @@ int main(){
     int count2 = 1;
     while (count2 <= 10){
         int product = number * count2;
-        printf("%d\n", product);
+        printf("%d\n", number, "*", count2, "=", product);
         count2 = count2 + 1;
     }
 
