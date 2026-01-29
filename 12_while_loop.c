@@ -13,7 +13,7 @@ int main(){
 
     
     int number;
-    printf("\nEnter the number: ");
+    printf("\nEnter the number, ejorwhi: ");
     scanf("%d", &number);
 
     int count2 = 1;
